@@ -3,7 +3,7 @@
 **Ingeniero Mecatrónico**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/juanalva/)
-[![Email](https://img.shields.io/badge/Email-j.alva@example.com-red)](mailto:juan_14-9@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-juan_14-9@hotmail.com-red)](mailto:juan_14-9@hotmail.com)
 
 ---
 
@@ -56,7 +56,7 @@ Soy Juan Alva, ingeniero mecatrónico con una sólida experiencia en mantenimien
 
 ## Contacto
 
-- **LinkedIn:** [linkedin.com/in/juanalva](linkedin.com/in/juanalva)
+- **LinkedIn:** [linkedin.com/in/juanalva](https://www.linkedin.com/in/juanalva/)
 - **Email:** [juan_14-9@hotmail.com](mailto:juan_14-9@hotmail.com)
 
 ---
