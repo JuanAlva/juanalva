@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/juanalva/)
 [![Email](https://img.shields.io/badge/Email-juan_14-9@hotmail.com-red)](mailto:juan_14-9@hotmail.com)
 
+--
 ---
 
 ## Sobre mí
