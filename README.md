@@ -3,11 +3,8 @@
 **Ingeniero Mecatrónico**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/juanalva/)
-[![Email](https://img.shields.io/badge/Email-j.alva@example.com-red)](mailto:j.alva@example.com)
+[![Email](https://img.shields.io/badge/Email-j.alva@hotmail.com-red)](mailto:juan_14-9@hotmail.com)
 
---
-
---
 ---
 
 ## Sobre mí
